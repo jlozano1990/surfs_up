@@ -1,6 +1,6 @@
 # Surfs_up
 ## Purpose
-The purpose of this analysis is to look at temperature data in the months of June and Decemeber in Oahu, to see if a surf and ice cream shop business would be sustainable year round.
+The purpose of this analysis is to look at temperature data in the months of June and December in Oahu, to see if a surf and ice cream shop business would be sustainable year round.
 ## Analysis
 ### June Temperature Stats
 ![June Temperature Stats](https://github.com/jlozano1990/surfs_up/blob/main/Resources/june_temp_summary.PNG)
